@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header { background-color: black; height: 100px;}
+
+a { color: #f5ebeb;}
+
+.navbar {
+    display: flex;
+    justify-items: left;
+}
+
+.nav-menu {display: flex; vertical-align: bottom; color: #450fe9;}

@@ -1,0 +1,67 @@
+<body>
+    <div class="container">
+        <img src="canoe.jpg" alt="Norway" style="width:100%;">
+        <div class="text-block">
+            <p>Come Experience <br>Canada
+            </p>
+            <p></p>
+          
+          
+        </div>
+      </div>
+
+.container {position: relative;}
+
+.text-block {position: absolute; bottom: 60px; right: 0; top: 25%; color: rgb(245, 243, 241); font-size: 70px
+    ; padding: 10px; left: 10px;}
+
+.text-block p { text-align: center;}
+
+<div class="container">
+        <img src="canoe.jpg" alt="Norway" class="img" style="width:1200px;" height="450px">
+        <div class="text-block">
+            <p>Come Experience <br>Canada
+            </p>
+            <p></p>
+          
+          
+        </div>
+      </div>
+
+      <main>
+        
+
+        <Div class="halifax">
+            <div class="events">Upcoming Adventures</div>
+
+            <div class="hali"> Halifax </div>
+
+            <p class="Date"> Date 2017-04-12 <br>Duration 4 days</p>
+
+           
+
+            <p class="Summary"> <span class="big">Summary</span> <br> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo placeat vitae sequi quia porro illum. Ea harum et, porro asperiores nesciunt placeat atque inventore officia libero obcaecati iure rerum nam temporibus modi dicta quasi beatae culpa eaque repellat adipisci ipsam soluta perferendis consequuntur fugit? Saepe facere iure consequuntur, debitis obcaecati accusamus ipsa quae amet et nulla eos voluptatum animi commodi ab dolor velit aliquam quidem qui fugit ratione deleniti assumenda?
+            </p>
+            
+            <div class="events"></div>
+
+            <div class="hali"> Sydney </div>
+
+            <p class="Date"> Date 2017-04-12 <br>Duration 4 days</p>
+
+           
+
+            <p class="Summary"> <span class="big">Summary</span> <br> Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo placeat vitae sequi quia porro illum. Ea harum et, porro asperiores nesciunt placeat atque inventore officia libero obcaecati iure rerum nam temporibus modi dicta quasi beatae culpa eaque repellat adipisci ipsam soluta perferendis consequuntur fugit? Saepe facere iure consequuntur, debitis obcaecati accusamus ipsa quae amet et nulla eos voluptatum animi commodi ab dolor velit aliquam quidem qui fugit ratione deleniti assumenda?
+            </p>
+
+            
+        
+        </main>
+
+    
+
+      
+</body>
+
+
+</html>
